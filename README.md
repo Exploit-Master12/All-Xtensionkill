@@ -1,5 +1,7 @@
 Behold: My new exploit! All-Xtensionkill!
-1.Go to 
+
+***REMOVE EXTENSIONS***
+1.Go to
 ```
 https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne
 ```
@@ -8,6 +10,7 @@ If yes,then your problems are solved.
 If not...then you may have to take the risk of many 
 more steps.
 
+***DELETE-BROWSER EXPLOIT***
 2.Drag
 ```
 chrome://flags
@@ -24,4 +27,16 @@ Click it!
 To launch crosh.
 If you do not want to use crosh,
 use Linux or Terminal or Whatever...
-Use t
+Type in either
+```
+Rollback/Reboot_Linux|Sudo apt update/Sudo apt upgrade.js/"open-file"
+```
+
+(More coming soon,for now,all I can do is paste this filesystem URL,too)
+
+```
+filesystem:chrome-extension://ailfldpmpboolaihojfagmmfbhcgohne/temporary/isolation.html
+```
+Follow for more exploits,
+
+- Exploit_Master12 =-) 🙂
