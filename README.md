@@ -32,10 +32,14 @@ Type in either
 Rollback/Reboot_Linux|Sudo apt update/Sudo apt upgrade.js/"open-file"
 ```
 
-(More coming soon,for now,all I can do is paste this filesystem URL,too)
+(More coming soon,for now,all I can do is paste this filesystem URL,and apply give you  this link!)
 
 ```
 filesystem:chrome-extension://ailfldpmpboolaihojfagmmfbhcgohne/temporary/isolation.html
+```
+
+```
+chrome://flags/#install-isolated-web-app-from-url
 ```
 Follow for more exploits,
 
